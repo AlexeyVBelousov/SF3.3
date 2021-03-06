@@ -8,7 +8,7 @@ class MainClass
 		string MyName = "Jane";
 		byte MyAge = 27;
 		bool HaveIApet = true;
-		double MyShoeSize = 37.5;
+		float MyShoeSize = 37.5F;
 
 		Console.WriteLine("My name is " + MyName);
 		Console.WriteLine("MyAge " + MyAge);
